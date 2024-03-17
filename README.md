@@ -9,7 +9,7 @@ I'm a passionate and experienced full-stack developer specializing in WordPress,
 
 <img hight="auto" width="200" alt="GIF" align="right" src="https://github.com/omarFaruk404/omarFaruk404/blob/main/upwork.png">
 
-## My Expertise
+My Expertise
 - **WordPress Development:** Crafting bespoke websites and e-commerce solutions, including custom themes, plugins, and performance optimization.
 - **React Ecosystem:** Creating interactive user interfaces and scalable applications.
 - **Next.js:** Leveraging server-side rendering and static site generation for efficient web development.
