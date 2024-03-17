@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
+<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlvb3Nod3JiajNnaWE5eTBtc215cDdpbnZxZzBrbjhjNnB3MWZxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kDLYv7ZAVbOI0SaYxZ/giphy.gif" alt="Coder GIF" width="720" height="auto">
 <h3 align="center">Full-Stack Developer: WordPress, React, Next.js, React Native, Cloud Expertise</h3>
 
 <p align="left"> <a href="https://twitter.com/omar_faruk404" target="blank"><img src="https://img.shields.io/twitter/follow/omar_faruk404?logo=twitter&style=for-the-badge" alt="omar_faruk404" /></a> </p>
