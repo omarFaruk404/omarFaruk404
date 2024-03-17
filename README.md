@@ -12,6 +12,7 @@ I'm a passionate and experienced full-stack developer specializing in WordPress,
 
 My Expertise:
 - **WordPress Development:** Crafting bespoke websites and e-commerce solutions, including custom themes, plugins, and performance optimization.
+- **Frontend Design:** Designing intuitive and visually appealing user interfaces using modern design principles and frameworks.
 - **React Ecosystem:** Creating interactive user interfaces and scalable applications.
 - **Next.js:** Leveraging server-side rendering and static site generation for efficient web development.
 - **React Native:** Developing cross-platform mobile applications with native-like performance.
