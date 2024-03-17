@@ -2,11 +2,11 @@
 <h3 align="center">Full-Stack Developer , Bachelor of Computer Science</h3>
 <br/>
 <p align="left"> <a href="https://twitter.com/omar_faruk404" target="blank"><img src="https://img.shields.io/twitter/follow/omar_faruk404?logo=twitter&style=for-the-badge" alt="omar_faruk404" /></a> </p>
-<p align="left"> <a https://www.upwork.com/freelancers/~01e3251e3746de7582" target="blank"><img src="https://img.shields.io/twitter/follow/omar_faruk404?logo=twitter&style=for-the-badge" alt="omar_faruk404" /></a> </p>
+
 <br/>
 ## About Me
 I'm a passionate and experienced full-stack developer specializing in WordPress, React, Next.js, React Native, and cloud technologies. With a strong background in creating robust and scalable web and mobile applications, I thrive in dynamic environments where I can innovate and deliver top-notch solutions.
-
+<p align="right"> <a https://www.upwork.com/freelancers/~01e3251e3746de7582" target="blank"><img src="https://github.com/omarFaruk404/omarFaruk404/blob/main/upwork.png" alt="omar_faruk404" /></a> </p>
 ## My Expertise
 - **WordPress Development:** Crafting bespoke websites and e-commerce solutions, including custom themes, plugins, and performance optimization.
 - **React Ecosystem:** Creating interactive user interfaces and scalable applications.
