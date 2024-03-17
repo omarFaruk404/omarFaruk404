@@ -6,7 +6,7 @@
 <br/>
 ## About Me
 I'm a passionate and experienced full-stack developer specializing in WordPress, React, Next.js, React Native, and cloud technologies. With a strong background in creating robust and scalable web and mobile applications, I thrive in dynamic environments where I can innovate and deliver top-notch solutions.
-<br/>
+
 <img hight="auto" width="200" alt="GIF" align="right" src="https://github.com/omarFaruk404/omarFaruk404/blob/main/upwork.png">
 
 ## My Expertise
