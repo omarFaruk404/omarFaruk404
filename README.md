@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB5OG83eTRma3JxY2VzOTQ3bHRjZ3o5dHhqZmR3aXpjMGlndWl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zLYtSGCTv6SL7tkSy/giphy.gif" alt="Coder GIF" width="1200" height="auto">
+<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB5OG83eTRma3JxY2VzOTQ3bHRjZ3o5dHhqZmR3aXpjMGlndWl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zLYtSGCTv6SL7tkSy/giphy.gif" alt="Coder GIF" width="1400" height="auto">
 <h3 align="center">Full-Stack Developer: WordPress, React, Next.js, React Native, Cloud Expertise</h3>
 
 <p align="left"> <a href="https://twitter.com/omar_faruk404" target="blank"><img src="https://img.shields.io/twitter/follow/omar_faruk404?logo=twitter&style=for-the-badge" alt="omar_faruk404" /></a> </p>
