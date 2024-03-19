@@ -15,7 +15,6 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <br/>
-<br/>
 ### About Me 💬:
 I'm a passionate and experienced full-stack developer specializing in WordPress, React, Next.js, React Native, and cloud technologies. With a strong background in creating robust and scalable web and mobile applications, I thrive in dynamic environments where I can innovate and deliver top-notch solutions.
 
