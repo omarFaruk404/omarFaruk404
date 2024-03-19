@@ -1,6 +1,7 @@
 <img align="center" src="https://github.com/omarFaruk404/omarFaruk404/blob/main/banner.gif" alt="Coder GIF" width="1200" height="auto">
 <h3 align="center">Full-Stack Developer , Bachelor of Computer Science</h3>
 <br/>
+<br/>
 <a href="https://github.com/omarFaruk404" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -13,7 +14,7 @@
 <a href="https://google.com" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-
+<br/>
 <br/>
 About Me 💬:
 <br/>
