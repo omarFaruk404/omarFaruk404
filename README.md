@@ -21,6 +21,7 @@ I'm a passionate and experienced full-stack developer specializing in WordPress,
 
 <a href="https://www.upwork.com/freelancers/~01e3251e3746de7582" target="_blank" rel="noreferrer"><img hight="auto" width="200" alt="GIF" align="right" src="https://github.com/omarFaruk404/omarFaruk404/blob/main/upwork.png"><a/>
 <h3 align="left">My Expertise:</h3>
+<br/>
 - **WordPress Development:** Crafting bespoke websites and e-commerce solutions, including custom themes, plugins, and performance optimization.
 - **Frontend Design:** Designing intuitive and visually appealing user interfaces using modern design principles and frameworks.
 - **React Ecosystem:** Creating interactive user interfaces and scalable applications.
