@@ -1,5 +1,4 @@
-<img align="center" src="https://github.com/omarFaruk404/omarFaruk404/blob/main/banner.gif" alt="Coder GIF" width="1200" height="auto">
-<h3 align="center">Full-Stack Developer , Bachelor of Computer Science</h3>
+<h3 align="center">Doing Bachelor of Computer Science</h3>
 <br/>
 <br/>
 <a href="https://github.com/omarFaruk404" target="_blank">
