@@ -15,7 +15,7 @@
 </a>
 <br/>
 <h3 align="left">About Me 💬:</h3>
-I am Goku
+I am Omar
 <br/>
 
-Let's build something awesome together! 🚀
+Let's build something awesome! 🚀
